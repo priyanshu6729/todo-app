@@ -35,3 +35,7 @@ Before you begin, ensure you have the following installed:
 Node.js (v14 or later)
 npm (v6 or later)
 A modern web browser
+
+<img width="1174" alt="Screenshot 2025-03-26 at 22 25 23" src="https://github.com/user-attachments/assets/dbb80cc8-a44e-430b-9d60-9b7a197e6501" />
+<img width="1440" alt="Screenshot 2025-03-26 at 22 25 49" src="https://github.com/user-attachments/assets/8dd29abc-d76b-4ec3-aa09-8c74100c209d" />
+
